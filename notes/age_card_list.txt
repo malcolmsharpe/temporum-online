@@ -1,0 +1,55 @@
+Age 1:
+  Iron Age
+  Stone Age
+  Ice Age
+  Ancient Egypt
+  Primitive Paradise
+  Ancient Greece
+  Late Jurassic
+  Time of Legends
+
+Age 2:
+  Age of Cults
+  Egyptian America
+  Crusades
+  Roman Empire
+  Inquisition
+  Pax Bhudda
+  Plague
+  Renaissance
+  Holy Norse Empire
+  Imperial China
+  Feudal Japan
+  Aztec Invasion
+
+Age 3:
+  Age of Discovery
+  Bureaucracy
+  Great Depression
+  Prohibition Era
+  Police State
+  Summer of Love
+  American Civil War
+  Plutocracy
+  Balloon Revolution
+  French Revolution
+  Industrial Revolution
+  Cold War
+
+Age 4:
+  Space Age
+  Information Age
+  Age of Cats
+  Age of Toys
+  Mere Anarchy
+  Warm Globe
+  Ice Wasteland
+  Nuclear Wasteland
+  Nanotech Wonderland
+  Robot Uprising
+  Savagery
+  Utopia
+  Communist Utopia
+  Age of Cybernetics
+  Alien Contact
+  Steampunk Empire

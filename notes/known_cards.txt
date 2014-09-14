@@ -1,0 +1,81 @@
+*** Age 1
+
+Time of Legends:
+  Score a card, advancing an extra Crown.
+
+
+*** Age 2
+
+Renaissance:
+  If you rule here, draw 3 cards. Otherwise,
+  draw 2 cards.
+
+
+*** Age 3
+
+American Civil War:
+  Play a card. Gain $4 per Time you rule.
+
+French Revolution:
+  Play a card. If you rule here,
+  draw a card.
+
+Industrial Revolution:
+  Play a card. If you rule here, you may
+  return that card to your hand.
+
+
+*** Age 4
+
+Space Age:
+  Score a card. Then if you rule at least
+  two Times, you may score another
+  card.
+
+Robot Uprising:
+  Advance one of your Crown.
+  Draw a card per Time you rule.
+
+Age of Cats:
+  You may pay $10. If you do, score the
+  same card twice (paying twice).
+
+Savagery:
+  Discard your hand. Draw 3 cards.
+
+
+*** Player
+
+Crown Jewels:
+  $11
+  Discard any number of cards.
+  Gain $4 per card you discarded.
+
+  Score: Pay $4 for Crown.
+
+Tulip Stocks
+  $9
+  Each other player loses $5.
+
+  Score: Pay $20 for 8 Crown.
+
+Explorer
+  $6
+  When you draw a card, gain $1 (per card).
+
+  Score: Pay $16 for 7 Crown.
+
+Inventor:
+  $4
+  Choose one: Draw 2 cards;
+  or gain $8; or advance two of
+  your Crown.
+
+  Score: Pay $20 for 8 Crown.
+
+Black Market:
+  $7
+  When you play another card,
+  gain an extra $2.
+
+  Score: Pay $8 for 5 Crown.

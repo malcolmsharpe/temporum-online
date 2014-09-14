@@ -1,0 +1,74 @@
+Game state (essential):
+  Board:
+    Which zone card is in each slot.
+    The direction of each of the 6 paths.
+    How many crowns for each player in each time.
+
+  Per player (public):
+    How many coins possessed.
+    How many cards in hand.
+    Which perpetual cards are on the table.
+
+  Per player (private):
+    Which cards are in hand.
+
+  Other:
+    Whose turn it is.
+    Which phase of that player's turn.
+    Whether the draw deck of player cards is empty.
+    What's on top of the discard deck of player cards, if anything.
+    
+Game state (derived):
+  Board:
+    Which zones are real.
+    Which players rule each time.
+
+
+*** Measurement notes
+
+Longest zone card name is 21 characters (letters and spaces).
+
+
+*** Basic display mockup (all info present, but rough text design only)
+
+Left side is 100 characters wide.
+
+                                        #[Time of Legends]#
+                                                P4
+                                                        \
+                                                         \
+                                 [Renaissance]       #[Age 2 Dummy]#
+
+                                          \              /
+                                           \            /
+               [American Civil War]     #[French Revolution]#     [Industrial Revolution]
+                                               P1  P2
+             /                          /                                               \
+            /                          /                                                 \
+[Space Age]            #[Robot Uprising]#               [Age of Cats]                   [Savagery]
+                           P3  P5
+
+
+Right side is 3x4 + 2 = 14 characters wide.
+
+P1  P2  P3  P4  P5
+
+------------------
+
+ 5   0  10   0   0
+
+------------------
+
+ 5  10   0   0   0
+
+etc.
+
+------------------
+
+
+Next row.
+
+P1:  $8, hand 3
+  Black Market
+P2: $17, hand 2
+  Explorer
